@@ -22,6 +22,6 @@ I'm a **System Engineering student** at the [Universidad Privada del Norte](http
 
 ## Get in Touch
 
-- 📧 Personal Email: jorgeantoni987@gmail.com
+- 📧 Personal Email: antonijorge987@gmail.com
 
 Feel free to check out my repositories and connect with me!
