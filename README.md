@@ -8,7 +8,6 @@ I'm a **System Engineering student** at the [Universidad Privada del Norte](http
 - 💻 **Programming Languages**: 
   - SQL
   - Python
-  - C++
 - 📊 **Data Analysis Tools**:
   - Excel
   - Power BI
@@ -17,7 +16,6 @@ I'm a **System Engineering student** at the [Universidad Privada del Norte](http
 
 - **SQL Projects**: Working on database management and complex queries.
 - **Python Projects**: Developing scripts and small applications to automate tasks.
-- **C++ Projects**: Building foundational projects to understand object-oriented programming.
 - **Power BI Dashboards**: Creating interactive dashboards to visualize data insights.
 
 ## Get in Touch
